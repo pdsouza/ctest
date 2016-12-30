@@ -1,4 +1,6 @@
 # ctest
+[![Build Status](https://travis-ci.org/pdsouza/ctest.svg?branch=master)](https://travis-ci.org/pdsouza/ctest)
+
 Simple testing library for C.
 
 ## Examples
